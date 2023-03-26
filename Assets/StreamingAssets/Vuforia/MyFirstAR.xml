@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="anime" size="10.000000 7.920133" />
+    <ImageTarget name="Petrushin" size="1.000000 1.307606" />
+  </Tracking>
+</QCARConfig>
